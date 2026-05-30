@@ -3,6 +3,7 @@ Small utility scripts built alongside my math self-study
 
 ## degrees_to_radians.py
 Converts degrees to radians.
+
 Degrees: 180
 → 180.00 degrees are 3.141593 radians
 Degrees: 90
@@ -10,6 +11,7 @@ Degrees: 90
 
 ## exponential_growth.py
 Shows the growth/decay of the input entered after a time n 
+
 Base: 1000
 growth factor (example 0.05 for 5%): 0.05
 Timesteps: 3
@@ -19,6 +21,7 @@ Timesteps: 3
 
 ## matrix_multiplication.py (numpy is needed)
 Ask for 2 matrices und multiplies them
+
 Rows A: 2, Cols A: 2
 Row 1: 1 2
 Row 2: 3 4
@@ -33,6 +36,7 @@ A x B =
 
 ## trigonometry_calc.py
 Calc for trigonometric functions(sin, cos, tan)
+
 Angle in Degree: 45
 → sin(45°) = 0.7071
 → cos(45°) = 0.7071
