@@ -34,6 +34,14 @@ A x B =
 [[19 22]
  [43 50]]
 
+## prime_number_checker.py
+Gives all prime numbers between a interval n,m in a list back
+
+example:
+n = 1 m = 100
+l = [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97]
+
+
 ## trigonometry_calc.py
 Calc for trigonometric functions(sin, cos, tan)
 
